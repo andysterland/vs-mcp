@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "description": "MCP server to launch Visual Studio",
-  "name": "vs-mcp",
+  "name": "visualstudio-launcher",
   "version": "0.1.0-beta",
   "packages": [
     {
